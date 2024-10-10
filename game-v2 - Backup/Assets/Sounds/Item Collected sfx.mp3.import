@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cvgce13hdpjuo"
+path="res://.godot/imported/Item Collected sfx.mp3-ae3be2f7a3dc32d9d0d26d7753f0dd3b.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Item Collected sfx.mp3"
+dest_files=["res://.godot/imported/Item Collected sfx.mp3-ae3be2f7a3dc32d9d0d26d7753f0dd3b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
